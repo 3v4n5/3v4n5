@@ -1,12 +1,9 @@
-### Hi there 👋, Mi nombre es Evans R. Mondragon
-#### Soy desarrollador web
-![Soy Desarrollador web](https://github.com/3v4n5/app-Bootstrap-1/blob/portafolio/code.png)
+🎯 **QA Automation Engineer** | Enfocado en asegurar la calidad de software mediante pruebas automatizadas y metodologías ágiles. Experto en frameworks como Playwright, Cypress y Serenity con Selenium. Apasionado por optimizar procesos de testing y crear flujos de CI/CD eficientes para entregar software robusto y confiable.
 
-Soy de ingeniero en sistemas, Me gusta el desarrollo es una de mis pasiones, tengo afinidad por el desarrollo web.
 
-Skills: / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+
+
 
 
 
